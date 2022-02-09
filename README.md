@@ -126,9 +126,9 @@ entire table would look like the following:
 ```html
 <table>
   <tr>
-    <th>Name</th>
-    <th>Phone Number</th>
-    <th>Bringing</th>
+    <th>City</th>
+    <th>State</th>
+    <th>2017 estimate</th>
   </tr>
   <tr>
     <td>Daniel</td>
